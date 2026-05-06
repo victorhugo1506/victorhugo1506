@@ -1,127 +1,24 @@
-<div align="center">
+# 💫 About Me:
+Sou graduando em Matemática Computacional na Universidade Federal do Cariri (UFCA). Busco aplicar rigor matemático e algoritmos eficientes na fronteira entre matemática, física e computação.<br><br>🔭 Pesquisa: Abordagens numéricas em física de dimensões extras e modelos de mundo-brana<br>📐 Métodos: Sturm-Liouville, Cálculo de Variações, Análise Espectral<br>💻 Dev: Algoritmos e estruturas de dados (LAED) em C e Python<br>📄 Tipografia: Ecossistema LaTeX para documentos técnicos<br>🌎 Juazeiro do Norte, CE — Brasil
 
-# Olá, eu sou o Victor Hugo! 👋
 
-**Matemática Computacional · Física Teórica · Computação Científica**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/victorhls15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/victor-hugo-2625701a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hugo.victor@aluno.ufca.edu.br) 
 
-<div align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgwODc0OTYsIm5iZiI6MTc3ODA4NzE5NiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA2VDE3MDYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzMzY4ZDA0MDdmZmJmOGI5ZGY4OGI3YjU4OTRiODk4OTZlM2JlZmIxNWYyNzI3YTVhZWNmNzUwOGIwZDUyZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.OnqZVQZQlcQOfPHqItHSS3pJdtKTFn31_cTWHT793rQ" alt="gif" width="480px" />
-</div>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=victorhugo1506&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=victorhugo1506&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=victorhugo1506&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=victorhugo1506&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-## 🙋 Sobre Mim
-
-Sou graduando em **Matemática Computacional** na Universidade Federal do Cariri (UFCA). Busco aplicar rigor matemático e algoritmos eficientes na fronteira entre matemática, física e computação.
-
-- 🔭 **Pesquisa:** Abordagens numéricas em física de dimensões extras e modelos de mundo-brana
-- 📐 **Métodos:** Sturm-Liouville, Cálculo de Variações, Análise Espectral
-- 💻 **Dev:** Algoritmos e estruturas de dados (LAED) em C e Python
-- 📄 **Tipografia:** Ecossistema LaTeX para documentos técnicos
-- 🌎 Juazeiro do Norte, CE — Brasil
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=victorhugo1506&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=victorhugo1506&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tecnologias & Ferramentas
-
-### 💻 Linguagens
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📐 Produtividade Científica
-
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 📊 Ciência de Dados
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
----
-
-## 🧠 Habilidades
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,latex,git,vscode,github,linux,vim&perline=8" alt="Skill Icons" />
-</div>
-
----
-
-## 📚 Aprendendo Atualmente
-
-- 🔬 Métodos numéricos espectrais aplicados à física de branas
-- 🐍 Python científico: NumPy, SciPy, Matplotlib
-- 📊 Visualização de dados para física computacional
-
-## 🎯 Próximos Objetivos
-
-- Explorar **Julia** para computação científica de alto desempenho
-- Aprofundar em **equações diferenciais parciais** numéricas
-- Publicar resultados da pesquisa em mundo-brana
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=victorhugo1506&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorhugo1506&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribui%C3%A7%C3%B5es%20dos%20%C3%9Altimos%2012%20Meses" alt="Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorhugo1506&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorhugo1506&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorhugo1506&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victorhugo1506&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victorhugo1506&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victorhugo1506&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=victorhugo1506&theme=tokyonight&utcOffset=-3" />
-</div>
-
----
-
-## 📈 Métricas
-
-<div align="center">
-
-| 📊 Métrica | 📈 Valor |
-|:----------:|:--------:|
-| ⭐ Total de Estrelas | ![Stars](https://img.shields.io/github/stars/victorhugo1506?style=flat-square&label=%20&color=yellow) |
-| 👥 Seguidores | ![Followers](https://img.shields.io/github/followers/victorhugo1506?style=flat-square&label=%20&color=0e75b6) |
-| 📁 Repositórios | ![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&label=%20&color=blue&query=public_repos&url=https://api.github.com/users/victorhugo1506) |
-
-</div>
-
----
-
-## 📫 Contato
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/hugo.victor@aluno.ufca.edu.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.victor@aluno.ufca.edu.br)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorhugo1506)
-[![UFCA](https://img.shields.io/badge/UFCA-FF6B00?style=for-the-badge&logo=academia&logoColor=white)](https://www.ufca.edu.br)
-
-</div>
-
----
-
-<div align="center">
-  <sub>⭐️ Feito com ❤️ por <a href="https://github.com/victorhugo1506">Victor Hugo</a></sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
