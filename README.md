@@ -1,55 +1,64 @@
-# Olá, eu sou o Victor Hugo!
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/UFCA-
-Universidade%20Federal%20do%20Cariri-orange?style=for-the-badge" />
+# Victor Hugo
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-
-badge&logo=c&logoColor=white" />
+**Matemática Computacional · UFCA**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-
-badge&logo=python&logoColor=white" />
+[![Email](https://img.shields.io/badge/hugo.victor%40aluno.ufca.edu.br-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hugo.victor@aluno.ufca.edu.br)
+[![UFCA](https://img.shields.io/badge/UFCA-Universidade%20Federal%20do%20Cariri-FF6B00?style=flat-square)](https://www.ufca.edu.br)
 
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-
-badge&logo=latex&logoColor=white" />
+</div>
 
-</p>
 ---
-### Sobre Mim
-Sou graduando em **Matemática Computacional** na Universidade Federal do Cariri
-(UFCA). Busco aplicar o rigor matemático e algoritmos eficientes para resolver
-problemas na fronteira entre a matemática, a física e a computação.
-- **Pesquisa:** Atualmente focado em abordagens numéricas em física de
-dimensões extras e modelos de mundo-brana.
-- **Desenvolvimento:** Praticando algoritmos e estruturas de dados (LAED) com
-foco em C e Python.
-- **Tipografia Científica:** Uso do ecossistema LaTeX para produção de
-documentos técnicos de alta qualidade.
+
+## Sobre
+
+Graduando em **Matemática Computacional** na Universidade Federal do Cariri (UFCA), com interesse na fronteira entre matemática, física teórica e computação científica.
+
+Atualmente, minha pesquisa foca em **abordagens numéricas para física de dimensões extras e modelos de mundo-brana**, onde aplico métodos de Sturm-Liouville e cálculo de variações para atacar problemas em física de altas energias.
+
 ---
-### Tecnologias e Ferramentas
-- **Linguagens de Programação:** C, Python.
-- **Domínios Matemáticos:** Métodos Numéricos, Sturm-Liouville, Cálculo de
 
-Variações.
-- **Produtividade:** LaTeX, Git, VS Code.
+## Pesquisa & Interesses
+
+```
+Física Teórica ──► Dimensões extras · Modelos de mundo-brana · Gravitação em bulk
+Métodos Numéricos ──► Sturm-Liouville · Cálculo de Variações · Análise Espectral
+Implementação ──► C (performance) · Python (prototipagem e visualização)
+```
+
 ---
-### Estatísticas
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?
-username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /
->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-
-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=radical" />
+## Stack
 
-</p>
+| Área | Ferramentas |
+|---|---|
+| **Linguagens** | C · Python |
+| **Matemática** | Métodos Numéricos · Sturm-Liouville · Cálculo de Variações |
+| **Tipografia** | LaTeX · BibTeX |
+| **Dev** | Git · VS Code |
+
 ---
-### Contato
-<p align="left">
-<a href="mailto:hugo.victor@aluno.ufca.edu.br">
 
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-
-badge&logo=gmail&logoColor=white" />
+## Estatísticas GitHub
 
-</a>
-</p>
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contato
+
+Aberto a colaborações em projetos de física computacional, métodos numéricos ou desenvolvimento científico em C/Python.
+
+📧 [hugo.victor@aluno.ufca.edu.br](mailto:hugo.victor@aluno.ufca.edu.br)
+
+---
+
+<div align="center">
+<sub>Fortaleza, CE · Brasil</sub>
+</div>
