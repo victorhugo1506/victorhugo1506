@@ -8,7 +8,7 @@
   <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgwODc0OTYsIm5iZiI6MTc3ODA4NzE5NiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA2VDE3MDYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzMzY4ZDA0MDdmZmJmOGI5ZGY4OGI3YjU4OTRiODk4OTZlM2JlZmIxNWYyNzI3YTVhZWNmNzUwOGIwZDUyZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.OnqZVQZQlcQOfPHqItHSS3pJdtKTFn31_cTWHT793rQ" alt="gif" width="480px" />
 </div>
 
-</div>
+</div>  
 
 ---
 
@@ -19,8 +19,8 @@ Sou graduando em **Matemática Computacional** na Universidade Federal do Cariri
 - 🔭 **Pesquisa:** Abordagens numéricas em física de dimensões extras e modelos de mundo-brana
 - 📐 **Métodos:** Sturm-Liouville, Cálculo de Variações, Análise Espectral
 - 💻 **Dev:** Algoritmos e estruturas de dados (LAED) em C e Python
-- 📄 **Tipografia:** Ecossistema LaTeX para documentos técnicos de alta qualidade
-- 🌎 Fortaleza, CE — Brasil
+- 📄 **Tipografia:** Ecossistema LaTeX para documentos técnicos
+- 🌎 Juazeiro do Norte, CE — Brasil
 
 ---
 
