@@ -4,7 +4,9 @@
 
 **Matemática Computacional · Física Teórica · Computação Científica**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Graduando+em+Matem%C3%A1tica+Computacional;Pesquisa+em+F%C3%ADsica+de+Dimens%C3%B5es+Extras;M%C3%A9todos+Num%C3%A9ricos+%26+Sturm-Liouville;Apaixonado+por+C%2C+Python+e+LaTeX" alt="Typing SVG" />
+<div align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzgwODc0OTYsIm5iZiI6MTc3ODA4NzE5NiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA1MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNTA2VDE3MDYzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWUzMzY4ZDA0MDdmZmJmOGI5ZGY4OGI3YjU4OTRiODk4OTZlM2JlZmIxNWYyNzI3YTVhZWNmNzUwOGIwZDUyZTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.OnqZVQZQlcQOfPHqItHSS3pJdtKTFn31_cTWHT793rQ" alt="gif" width="480px" />
+</div>
 
 </div>
 
