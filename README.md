@@ -1,8 +1,5 @@
 # 💫 About Me:
-Sou graduando em Matemática Computacional na Universidade Federal do Cariri (UFCA). Busco aplicar rigor matemático e algoritmos eficientes na fronteira entre matemática, física e computação.<br><br>🔭 Pesquisa: Abordagens numéricas em física de dimensões extras e modelos de mundo-brana<br>📐 Métodos: Sturm-Liouville, Cálculo de Variações, Análise Espectral<br>💻 Dev: Algoritmos e estruturas de dados (LAED) em C e Python<br>📄 Tipografia: Ecossistema LaTeX para documentos técnicos<br>🌎 Juazeiro do Norte, CE — Brasil 
-
-🌱 **Atualmente estudando:** Otimização de algoritmos em C e aprofundamento em métodos numéricos com SciPy/NumPy.
-👯 **Aberto a colaborações em:** Projetos open-source focados em computação científica e física numérica.
+Sou graduando em Matemática Computacional na Universidade Federal do Cariri (UFCA). Busco aplicar rigor matemático e algoritmos eficientes na fronteira entre matemática, física e computação.<br><br>🔭 **Pesquisa**: Abordagens numéricas em física de dimensões extras e modelos de mundo-brana<br>📐 **Métodos**: Sturm-Liouville, Cálculo de Variações, Análise Espectral<br>💻 **Dev**: Algoritmos e estruturas de dados (LAED) em C e Python<br>📄 **Tipografia**: Ecossistema LaTeX para documentos técnicos<br>🌎 Juazeiro do Norte, CE — Brasil 🌱 **Atualmente estudando:** Otimização de algoritmos em C e aprofundamento em métodos numéricos com SciPy/NumPy. **Aberto a colaborações em:** Projetos open-source focados em computação científica e física numérica.
 
 
 ## 🌐 Socials:
